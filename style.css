@@ -11,3 +11,7 @@
   --gameText: black;
   --titleText: white;
 };
+
+#header {
+  text-align: center;
+}
