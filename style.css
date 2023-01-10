@@ -5,5 +5,6 @@
 
 :root {
   --blue: rgb(39, 62, 90);
-  --gradient: ;
-}
+  --gradient: background: linear-gradient(white, gray);
+
+};
