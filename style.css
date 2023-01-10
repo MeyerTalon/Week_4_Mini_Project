@@ -5,6 +5,9 @@
 
 :root {
   --blue: rgb(39, 62, 90);
-  --gradient: background: linear-gradient(white, gray);
-
+  --whitetogray: background: linear-gradient(white, gray);
+  --goldtogold: linear-gradient(to right, #BF953F, #FCF6BA, #FBF5B7, #BF953F);
+  --gold: #BF953F;
+  --gameText: black;
+  --titleText: white;
 };
