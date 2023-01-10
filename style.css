@@ -1,0 +1,10 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+:root {
+  --blue: rgb(39, 62, 90);
+  --gradient: background: linear-gradient(white, gray);
+
+};
